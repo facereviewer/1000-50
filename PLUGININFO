@@ -1,0 +1,4 @@
+Version = "2025-11-03r00"
+Authors = ["Nicotine+"]
+Name = "Ban 1000 50"
+Description = "Ban users with 1000 50 fake stats"
